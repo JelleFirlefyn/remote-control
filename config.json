@@ -1,7 +1,7 @@
 {
     "variables": {
-        "var1": "https://api.github.com/repos/JelleFirlefyn/remote-control",
-        "var2": "/test.py"
+        "github_api_url": "https://api.github.com/repos/JelleFirlefyn/remote-control",
+        "file_path": "/test.py"
     },
     "download_and_execute": {}
 } 
