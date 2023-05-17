@@ -1,3 +1,8 @@
 {
-    "mod_screenshot": {}
-} 
+    "mod_downloadexecute": {
+        "parameters": {
+            "repo": "value1",
+            "code": "value2"
+        }
+    }
+}
